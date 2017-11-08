@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DefaultCompletionName</key>
+	<string>README</string>
+	<key>Description</key>
+	<string>A markdown file.</string>
+	<key>Kind</key>
+	<string>Xcode.IDEFoundation.TextSubstitutionFileTemplateKind</string>
+	<key>MainTemplateFile</key>
+	<string>README.md</string>
+	<key>Summary</key>
+	<string>A markdown file containing information about other files in a directory or archive of computer software.</string>
+	<key>BuildableType</key>
+	<string>None</string>
+</dict>
+</plist>
